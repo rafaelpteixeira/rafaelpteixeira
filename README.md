@@ -1,5 +1,5 @@
+
 - 👋 Hi, I’m @rafaelpteixeira
 - 👀 I’m interested in Java, Javascript and Angular
-- 🌱 I’m currently learning Java Spring
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: rafaelpteixeira@gmail.com
+- 🌱 I’m currently learning React.js 
+- 📫 How to reach me: rafaelpteixeira@gmail.com [link](http://mailto:rafaelpteixeira@gmail.com).
